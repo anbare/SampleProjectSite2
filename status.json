@@ -8,14 +8,14 @@
     "standardStatus": "Working draft or equivalent",
     "ieStatus": {
       "text": "Shipped",
-      "priority": "Medium",
-      "ieUnprefixed": "14393"
+      "priority": "Medium"
     },
     "spec": "",
     "msdn": "https://blogs.msdn.microsoft.com/tiles_and_toasts/2016/04/06/chaseable-tiles-know-what-was-clicked-on-your-live-tile-windows-10-uwp/",
     "wpd": "",
     "demo": "",
-    "id": null
+    "id": null,
+    "version": 14915
   },
   {
     "name": "Adaptive Toast Notifications",
