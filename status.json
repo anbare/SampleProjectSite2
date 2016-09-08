@@ -1,35 +1,19 @@
 
 [
-
   {
-
-    "name": "SVG Accessibility API Mappings",
-
-    "category": "Misc",
-
+    "name": "Chaseable Tiles",
+    "category": "Windows Notifications",
     "link": "http://www.w3.org/TR/svg-aam-1.0/",
-
-    "summary": "Defines how user agents map SVG markup to platform accessibility application programming interfaces.",
-
+    "summary": "Allow apps to know what was on their Live Tile when the user clicked it.",
     "standardStatus": "Working draft or equivalent",
-
     "ieStatus": {
-
       "text": "Under Consideration",
-
       "priority": "Medium"
-
     },
-
     "spec": "",
-
     "msdn": "",
-
     "wpd": "",
-
     "demo": "",
-
     "id": null
-
   }
 ]
