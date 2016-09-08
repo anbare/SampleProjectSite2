@@ -7,6 +7,158 @@
     "summary": "Allow apps to know what was on their Live Tile when the user clicked it.",
     "standardStatus": "Working draft or equivalent",
     "ieStatus": {
+      "text": "Shipped",
+      "priority": "Medium",
+      "ieUnprefixed": "14393"
+    },
+    "spec": "",
+    "msdn": "https://blogs.msdn.microsoft.com/tiles_and_toasts/2016/04/06/chaseable-tiles-know-what-was-clicked-on-your-live-tile-windows-10-uwp/",
+    "wpd": "",
+    "demo": "",
+    "id": null
+  },
+  {
+    "name": "Adaptive Toast Notifications",
+    "category": "Windows Notifications",
+    "link": "http://www.w3.org/TR/svg-aam-1.0/",
+    "summary": "Support the same visual richness that Tiles have on Toast",
+    "standardStatus": "Working draft or equivalent",
+    "ieStatus": {
+      "text": "Shipped",
+      "priority": "Medium",
+      "ieUnprefixed": "14393"
+    },
+    "spec": "",
+    "msdn": "https://blogs.msdn.microsoft.com/tiles_and_toasts/2016/06/10/whats-new-for-toast-notifications-and-action-center-in-windows-10-anniversary-update/",
+    "wpd": "",
+    "demo": "",
+    "id": null
+  },
+  {
+    "name": "Context menu on Toast notification",
+    "category": "Windows Notifications",
+    "link": "http://www.w3.org/TR/svg-aam-1.0/",
+    "summary": "Allow developer-specified context menu actions on the Toast notification",
+    "standardStatus": "Working draft or equivalent",
+    "ieStatus": {
+      "text": "Shipped",
+      "priority": "Medium",
+      "ieUnprefixed": "14393"
+    },
+    "spec": "",
+    "msdn": "https://blogs.msdn.microsoft.com/tiles_and_toasts/2016/06/10/whats-new-for-toast-notifications-and-action-center-in-windows-10-anniversary-update/",
+    "wpd": "",
+    "demo": "",
+    "id": null
+  },
+  {
+    "name": "Notification Listener",
+    "category": "Windows Notifications",
+    "link": "http://www.w3.org/TR/svg-aam-1.0/",
+    "summary": "Allow apps to access your notifications, so wearable apps can be created",
+    "standardStatus": "Working draft or equivalent",
+    "ieStatus": {
+      "text": "Shipped",
+      "priority": "Medium",
+      "ieUnprefixed": "14393"
+    },
+    "spec": "",
+    "msdn": "https://blogs.msdn.microsoft.com/tiles_and_toasts/2016/05/26/notification-listener-documentation-windows-10/",
+    "wpd": "",
+    "demo": "",
+    "id": null
+  },
+  {
+    "name": "Support hint-crop on Tile background image",
+    "category": "Windows Notifications",
+    "link": "http://www.w3.org/TR/svg-aam-1.0/",
+    "summary": "Support hint-crop circle on Adaptive Tile notification background images",
+    "standardStatus": "Working draft or equivalent",
+    "ieStatus": {
+      "text": "Shipped",
+      "priority": "Medium",
+      "ieUnprefixed": "10586"
+    },
+    "spec": "",
+    "msdn": "https://blogs.msdn.microsoft.com/tiles_and_toasts/2015/11/03/whats-new-for-adaptive-tile-templates-in-windows-10-version-1511/",
+    "wpd": "",
+    "demo": "",
+    "id": null
+  },
+  {
+    "name": "Support hint-crop on Tile peek image",
+    "category": "Windows Notifications",
+    "link": "http://www.w3.org/TR/svg-aam-1.0/",
+    "summary": "Support hint-crop circle on Adaptive Tile notification peek images",
+    "standardStatus": "Working draft or equivalent",
+    "ieStatus": {
+      "text": "Shipped",
+      "priority": "Medium",
+      "ieUnprefixed": "10586"
+    },
+    "spec": "",
+    "msdn": "https://blogs.msdn.microsoft.com/tiles_and_toasts/2015/11/03/whats-new-for-adaptive-tile-templates-in-windows-10-version-1511/",
+    "wpd": "",
+    "demo": "",
+    "id": null
+  },
+  {
+    "name": "Support hint-crop on Tile peek image",
+    "category": "Windows Notifications",
+    "link": "http://www.w3.org/TR/svg-aam-1.0/",
+    "summary": "Support hint-crop circle on Adaptive Tile notification peek images",
+    "standardStatus": "Working draft or equivalent",
+    "ieStatus": {
+      "text": "Shipped",
+      "priority": "Medium",
+      "ieUnprefixed": "10586"
+    },
+    "spec": "",
+    "msdn": "https://blogs.msdn.microsoft.com/tiles_and_toasts/2015/11/03/whats-new-for-adaptive-tile-templates-in-windows-10-version-1511/",
+    "wpd": "",
+    "demo": "",
+    "id": null
+  },
+  {
+    "name": "Interactive Toast notifications",
+    "category": "Windows Notifications",
+    "link": "http://www.w3.org/TR/svg-aam-1.0/",
+    "summary": "Allow quick reply and other interactive Toast notification scenarios",
+    "standardStatus": "Working draft or equivalent",
+    "ieStatus": {
+      "text": "Shipped",
+      "priority": "Medium",
+      "ieUnprefixed": "10240"
+    },
+    "spec": "",
+    "msdn": "https://blogs.msdn.microsoft.com/tiles_and_toasts/2015/07/02/adaptive-and-interactive-toast-notifications-for-windows-10/",
+    "wpd": "",
+    "demo": "",
+    "id": null
+  },
+  {
+    "name": "Pin Primary Tile",
+    "category": "Windows Notifications",
+    "link": "http://www.w3.org/TR/svg-aam-1.0/",
+    "summary": "Allow apps to programmatically pin their primary tile",
+    "standardStatus": "Working draft or equivalent",
+    "ieStatus": {
+      "text": "Under Consideration",
+      "priority": "Medium"
+    },
+    "spec": "",
+    "msdn": "",
+    "wpd": "",
+    "demo": "",
+    "id": null
+  },
+  {
+    "name": "Third pary alarms break through quiet hours",
+    "category": "Windows Notifications",
+    "link": "http://www.w3.org/TR/svg-aam-1.0/",
+    "summary": "Allow third party alarm notifications to break through quiet hours, just like native Alarm app",
+    "standardStatus": "Working draft or equivalent",
+    "ieStatus": {
       "text": "Under Consideration",
       "priority": "Medium"
     },
