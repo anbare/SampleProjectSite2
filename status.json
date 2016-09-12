@@ -166,6 +166,52 @@
     "msdn": "",
     "wpd": "",
     "demo": "",
-    "id": null
+    "id": null,
+    "uservoiceid": 14801892
+  },
+  {
+    "name": "API to check if primary tile is pinned",
+    "category": "Windows Notifications",
+    "summary": "Allow apps to check whether their primary tile is pinned to Start",
+    "ieStatus": {
+      "text": "Under Consideration",
+      "priority": "Medium"
+    },
+    "spec": "",
+    "msdn": "",
+    "wpd": "",
+    "demo": "",
+    "id": null,
+    "uservoiceid": 2809413
+  },
+  {
+    "name": "XAML for Live Tiles",
+    "category": "Windows Notifications",
+    "summary": "Allow apps to use full XAML on their Live Tile, to create rich and beautiful experiences",
+    "ieStatus": {
+      "text": "Not currently planned",
+      "priority": "Medium"
+    },
+    "spec": "",
+    "msdn": "",
+    "wpd": "",
+    "demo": "",
+    "id": null,
+    "uservoiceid": 2282240
+  },
+  {
+    "name": "Allow max length of Toast Tag/Group to be at least GUID length",
+    "category": "Windows Notifications",
+    "summary": "Currently, Toast Tag/Group is too short to even hold a GUID",
+    "ieStatus": {
+      "text": "Under Consideration",
+      "priority": "Medium"
+    },
+    "spec": "",
+    "msdn": "",
+    "wpd": "",
+    "demo": "",
+    "id": null,
+    "uservoiceid": 8629408
   }
 ]
