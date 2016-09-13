@@ -213,5 +213,97 @@
     "demo": "",
     "id": null,
     "uservoiceid": 8629408
+  },
+  {
+    "name": "Support drawing polygons with holes on MapControl",
+    "category": "toast",
+    "summary": "Currently, there's a bug where polygons won't render when they overlap themselves (see https://social.msdn.microsoft.com/Forums/windowsapps/en-US/04bf003a-f15d-446a-8f70-3fa96905c303/map-polygons-with-holes-in-windows-phone-81). So it's currently impossible to draw polygons with holes, which e.g. makes it impossible to draw complex buildings etc.",
+    "ieStatus": {
+      "text": "Under Consideration",
+      "priority": "Medium"
+    },
+    "spec": "",
+    "msdn": "",
+    "wpd": "",
+    "demo": "",
+    "id": null,
+    "uservoiceid": 6609379
+  },
+  {
+    "name": "Remove max zoom limitation from MapControl",
+    "category": "maps",
+    "summary": "Remove max limitation on Zoomlevel 1-20. It would be nice to be able stretch bing maps data a bit more (22-25) and for custom detailed TIleLayers it would be also great.",
+    "ieStatus": {
+      "text": "Not currently planned",
+      "priority": "Medium"
+    },
+    "spec": "",
+    "msdn": "",
+    "wpd": "",
+    "demo": "",
+    "id": null,
+    "uservoiceid": 10172523
+  },
+  {
+    "name": "Allow arbritrary background tasks",
+    "category": "background",
+    "summary": "Save for a few narrow use cases, apps are prevented from working in the background (the current backgroundtask has too many resource constraints.",
+    "ieStatus": {
+      "text": "Not currently planned",
+      "priority": "Medium"
+    },
+    "spec": "",
+    "msdn": "",
+    "wpd": "",
+    "demo": "",
+    "id": null,
+    "uservoiceid": 6091145
+  },
+  {
+    "name": "Provide a PhotoCropTask",
+    "category": "cameravideomic",
+    "summary": "Please provide a PhotoCropTask that takes an Image(Byte[]) and provides the same crop tool",
+    "ieStatus": {
+      "text": "Shipped",
+      "priority": "Medium",
+      "ieUnprefixed": "10586"
+    },
+    "spec": "",
+    "msdn": "",
+    "wpd": "",
+    "demo": "",
+    "id": null,
+    "uservoiceid": 4308936
+  },
+  {
+    "name": "Bring back SQL Server Compact in Windows 10 UWP",
+    "category": "filedata",
+    "summary": "Bring back SQL Server Compact in Windows 10 UWP",
+    "ieStatus": {
+      "text": "Shipped",
+      "priority": "Medium",
+      "ieUnprefixed": "10586"
+    },
+    "spec": "",
+    "msdn": "",
+    "wpd": "",
+    "demo": "",
+    "id": null,
+    "uservoiceid": 9638328
+  },
+  {
+    "name": "ToUpper property on TextBox",
+    "category": "filedata",
+    "summary": "Please create this option native to TextBox control ",
+    "ieStatus": {
+      "text": "Not currently planned",
+      "priority": "Medium"
+    },
+    "spec": "",
+    "msdn": "",
+    "wpd": "",
+    "demo": "",
+    "id": null,
+    "uservoiceid": 7272924
   }
 ]
