@@ -2,7 +2,7 @@
 [
   {
     "name": "Chaseable Tiles",
-    "category": "Windows Notifications",
+    "category": "tile",
     "link": "http://www.w3.org/TR/svg-aam-1.0/",
     "summary": "Allow apps to know what was on their Live Tile when the user clicked it.",
     "standardStatus": "Working draft or equivalent",
@@ -19,7 +19,7 @@
   },
   {
     "name": "Adaptive Toast Notifications",
-    "category": "Windows Notifications",
+    "category": "toast",
     "link": "http://www.w3.org/TR/svg-aam-1.0/",
     "summary": "Support the same visual richness that Tiles have on Toast",
     "standardStatus": "Working draft or equivalent",
@@ -36,7 +36,7 @@
   },
   {
     "name": "Context menu on Toast notification",
-    "category": "Windows Notifications",
+    "category": "toast",
     "link": "http://www.w3.org/TR/svg-aam-1.0/",
     "summary": "Allow developer-specified context menu actions on the Toast notification",
     "standardStatus": "Working draft or equivalent",
@@ -53,7 +53,7 @@
   },
   {
     "name": "Notification Listener",
-    "category": "Windows Notifications",
+    "category": "toast",
     "link": "http://www.w3.org/TR/svg-aam-1.0/",
     "summary": "Allow apps to access your notifications, so wearable apps can be created",
     "standardStatus": "Working draft or equivalent",
@@ -70,7 +70,7 @@
   },
   {
     "name": "Support hint-crop on Tile background image",
-    "category": "Windows Notifications",
+    "category": "tile",
     "link": "http://www.w3.org/TR/svg-aam-1.0/",
     "summary": "Support hint-crop circle on Adaptive Tile notification background images",
     "standardStatus": "Working draft or equivalent",
@@ -87,7 +87,7 @@
   },
   {
     "name": "Support hint-crop on Tile peek image",
-    "category": "Windows Notifications",
+    "category": "tile",
     "link": "http://www.w3.org/TR/svg-aam-1.0/",
     "summary": "Support hint-crop circle on Adaptive Tile notification peek images",
     "standardStatus": "Working draft or equivalent",
@@ -104,7 +104,7 @@
   },
   {
     "name": "Support hint-crop on Tile peek image",
-    "category": "Windows Notifications",
+    "category": "tile",
     "link": "http://www.w3.org/TR/svg-aam-1.0/",
     "summary": "Support hint-crop circle on Adaptive Tile notification peek images",
     "standardStatus": "Working draft or equivalent",
@@ -121,7 +121,7 @@
   },
   {
     "name": "Interactive Toast notifications",
-    "category": "Windows Notifications",
+    "category": "toast",
     "link": "http://www.w3.org/TR/svg-aam-1.0/",
     "summary": "Allow quick reply and other interactive Toast notification scenarios",
     "standardStatus": "Working draft or equivalent",
@@ -138,7 +138,7 @@
   },
   {
     "name": "Pin Primary Tile",
-    "category": "Windows Notifications",
+    "category": "tile",
     "link": "http://www.w3.org/TR/svg-aam-1.0/",
     "summary": "Allow apps to programmatically pin their primary tile",
     "standardStatus": "Working draft or equivalent",
@@ -154,7 +154,7 @@
   },
   {
     "name": "Third pary alarms break through quiet hours",
-    "category": "Windows Notifications",
+    "category": "toast",
     "link": "http://www.w3.org/TR/svg-aam-1.0/",
     "summary": "Allow third party alarm notifications to break through quiet hours, just like native Alarm app",
     "standardStatus": "Working draft or equivalent",
@@ -171,7 +171,7 @@
   },
   {
     "name": "API to check if primary tile is pinned",
-    "category": "Windows Notifications",
+    "category": "tile",
     "summary": "Allow apps to check whether their primary tile is pinned to Start",
     "ieStatus": {
       "text": "Under Consideration",
@@ -186,7 +186,7 @@
   },
   {
     "name": "XAML for Live Tiles",
-    "category": "Windows Notifications",
+    "category": "tile",
     "summary": "Allow apps to use full XAML on their Live Tile, to create rich and beautiful experiences",
     "ieStatus": {
       "text": "Not currently planned",
@@ -201,7 +201,7 @@
   },
   {
     "name": "Allow max length of Toast Tag/Group to be at least GUID length",
-    "category": "Windows Notifications",
+    "category": "toast",
     "summary": "Currently, Toast Tag/Group is too short to even hold a GUID",
     "ieStatus": {
       "text": "Under Consideration",
