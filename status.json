@@ -143,7 +143,7 @@
     "summary": "Allow apps to programmatically pin their primary tile",
     "standardStatus": "Working draft or equivalent",
     "ieStatus": {
-      "text": "Under Consideration",
+      "text": "In Development",
       "priority": "Medium"
     },
     "spec": "",
@@ -174,7 +174,7 @@
     "category": "tile",
     "summary": "Allow apps to check whether their primary tile is pinned to Start",
     "ieStatus": {
-      "text": "Under Consideration",
+      "text": "In Development",
       "priority": "Medium"
     },
     "spec": "",
