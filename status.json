@@ -409,5 +409,145 @@
     "demo": "",
     "id": 878384,
     "uservoiceid": null
+  },
+  {
+    "name": "Loose file registration from a network share (multiple machines, single share)",
+    "category": "deployment",
+    "summary": "Registering an app in development mode allows for quicker iteration in development.  In many cases a developer wants to test on multiple devices or collaborate with other developer at the same time.  This feature allows the app registration to a network share so multiple devices can share register to teh same folder without the need to copy the files to each device.",
+    "ieStatus": {
+      "text": "Preview",
+      "priority": "Medium",
+      "ieUnprefixed": "14965"
+    },
+    "msdn": "http://blogs.msdn.microsoft.com/appinstaller/2016/11/04/rapid-app-development-using-register-layout-from-network-share-new-in-build-14965/",
+    "demo": "",
+    "id": 7223643,
+    "uservoiceid": null
+  },
+  {
+    "name": "Utility which allows developers to understand update diff between old and new package",
+    "category": "deployment",
+    "summary": "When a user gets an update of a UWP app the deployment stack performs a differential download based on changes block with in the app, minimizing the bandwidth and update time for the user.  In the Windows 10 Creators Update a new tool was introduced (ComparePackage) to allow the developer to understand what the delta impact across two packages will be to an end user.  ComparePackage will show the add, changes, and deletes of files to allowing the developer to further optimize as needed.",
+    "ieStatus": {
+      "text": "Preview",
+      "priority": "Medium",
+      "ieUnprefixed": "15014"
+    },
+    "msdn": "",
+    "demo": "",
+    "id": 7068331,
+    "uservoiceid": null
+  },
+  {
+    "name": "After an upgrade (i.e. RS2 > RS3), do not reinstall uninstalled apps",
+    "category": "deployment",
+    "summary": "Many apps come preinstalled with Windows. These are typically apps which are core to the Windows experience or that most people expect the system to have by default. Starting with build 14942 if a user removes an app the Windows upgrade experience will not reinstall the app on the device.",
+    "ieStatus": {
+      "text": "Preview",
+      "priority": "Medium",
+      "ieUnprefixed": "14942"
+    },
+    "msdn": "https://blogs.msdn.microsoft.com/appinstaller/2016/10/25/upgrade-improvements-in-14942/",
+    "demo": "",
+    "id": 6240567,
+    "uservoiceid": null
+  },
+  {
+    "name": "[Enterprise] App install progress for Company Hub",
+    "category": "deployment",
+    "summary": "When managing and deploying apps from a Company Hub UWP developers wants the ability to report status and progress of installations of UWP on the device.  In the creators update the package catalog class will allow a UWP with Package Management capabilities the ability to listen for state and installation progress of a UWP deployment.",
+    "ieStatus": {
+      "text": "Preview",
+      "priority": "Medium",
+      "ieUnprefixed": "15014"
+    },
+    "msdn": "https://msdn.microsoft.com/en-us/library/windows/apps/Windows.ApplicationModel.PackageCatalog.aspx",
+    "demo": "",
+    "id": 342542,
+    "uservoiceid": null
+  },
+  {
+    "name": "Provide a method to remove an app from all users of the device without the user logging in.",
+    "category": "deployment",
+    "summary": "Apps that are preinstalled on Windows 10 desktop are registered to all users that log into the device.  An administrator could remove these preinstalled apps so no new users would register the app, but if a user had previously been logged in they would still have the app registered.  The Windows 10 Creators Update now offers additional commands allow an administrator to remove the preinstalled app from the devices and from any user profile that has registered the app allowing for a complete removal of the app from the device.",
+    "ieStatus": {
+      "text": "Preview",
+      "priority": "Medium",
+      "ieUnprefixed": "15014"
+    },
+    "msdn": "",
+    "demo": "",
+    "id": 3167675,
+    "uservoiceid": null
+  },
+  {
+    "name": "[STREAMING] Deployment stack support for first time streaming install",
+    "category": "deployment",
+    "summary": "Developers can enable their app to launch when a minimal payload is deployed to the user.  This allows for quicker app engagement for the user.  Within the app the developer can customize the experience of the app as the remaining portion of the app are deployed.  A developer can prioritize the downloads of files and see progress of the remaining installation to provide a fluid in app experience.",
+    "ieStatus": {
+      "text": "In Development",
+      "priority": "Medium",
+      "ieUnprefixed": null
+    },
+    "msdn": "",
+    "demo": "",
+    "id": 7932349,
+    "uservoiceid": null
+  },
+  {
+    "name": "Allow in-place update for UWPs for large apps",
+    "category": "deployment",
+    "summary": "If an app is over 10 GB in space it will update the files in place instead of staging the files side by side with the original version preventing out of disk space errors when updating.",
+    "ieStatus": {
+      "text": "In Development",
+      "priority": "Medium",
+      "ieUnprefixed": null
+    },
+    "msdn": "",
+    "demo": "",
+    "id": 9506942,
+    "uservoiceid": null
+  },
+  {
+    "name": "Easy installation of a .appx or .appxbundle file",
+    "category": "deployment",
+    "summary": "Shell integration to double click and install a UWP on Windows desktop!",
+    "ieStatus": {
+      "text": "Shipped",
+      "priority": "Medium",
+      "ieUnprefixed": 14393
+    },
+    "msdn": "https://blogs.msdn.microsoft.com/appinstaller/2016/05/27/app-installer/",
+    "demo": "",
+    "id": null,
+    "uservoiceid": null
+  },
+  {
+    "name": "App extensions",
+    "category": "deployment",
+    "summary": "Developers can host the ability to offer independent UWP packages to offer extensibility to their UWP app.  The extensions can be provided from first or third party developers.   The host app is in control of what extensions can load and run to ensure the integrity and quality of the app experience.",
+    "ieStatus": {
+      "text": "Shipped",
+      "priority": "Medium",
+      "ieUnprefixed": 14393
+    },
+    "msdn": "https://channel9.msdn.com/Events/Build/2016/B808",
+    "demo": "",
+    "id": 4727727,
+    "uservoiceid": null
+  },
+  {
+    "name": "Developer controlled app updates",
+    "category": "deployment",
+    "summary": "Developers have an in app experience to notify the user of required or optional app updates.  Based on the state of the update developers can enable or disable functionality (i.e. online experience) until the update has been installed.",
+    "ieStatus": {
+      "text": "Shipped",
+      "priority": "Medium",
+      "ieUnprefixed": 14393
+    },
+    "msdn": "https://blogs.msdn.microsoft.com/appinstaller/2016/11/11/developer-controlled-app-updates/",
+    "demo": "",
+    "id": 5876297,
+    "uservoiceid": null
   }
 ]
