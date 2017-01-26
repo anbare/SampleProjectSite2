@@ -415,7 +415,7 @@
     "category": "deployment",
     "summary": "Registering an app in development mode allows for quicker iteration in development.  In many cases a developer wants to test on multiple devices or collaborate with other developer at the same time.  This feature allows the app registration to a network share so multiple devices can share register to teh same folder without the need to copy the files to each device.",
     "ieStatus": {
-      "text": "Preview",
+      "text": "Preview Release",
       "priority": "Medium",
       "ieUnprefixed": "14965"
     },
@@ -429,7 +429,7 @@
     "category": "deployment",
     "summary": "When a user gets an update of a UWP app the deployment stack performs a differential download based on changes block with in the app, minimizing the bandwidth and update time for the user.  In the Windows 10 Creators Update a new tool was introduced (ComparePackage) to allow the developer to understand what the delta impact across two packages will be to an end user.  ComparePackage will show the add, changes, and deletes of files to allowing the developer to further optimize as needed.",
     "ieStatus": {
-      "text": "Preview",
+      "text": "Preview Release",
       "priority": "Medium",
       "ieUnprefixed": "15014"
     },
@@ -443,7 +443,7 @@
     "category": "deployment",
     "summary": "Many apps come preinstalled with Windows. These are typically apps which are core to the Windows experience or that most people expect the system to have by default. Starting with build 14942 if a user removes an app the Windows upgrade experience will not reinstall the app on the device.",
     "ieStatus": {
-      "text": "Preview",
+      "text": "Preview Release",
       "priority": "Medium",
       "ieUnprefixed": "14942"
     },
@@ -457,7 +457,7 @@
     "category": "deployment",
     "summary": "When managing and deploying apps from a Company Hub UWP developers wants the ability to report status and progress of installations of UWP on the device.  In the creators update the package catalog class will allow a UWP with Package Management capabilities the ability to listen for state and installation progress of a UWP deployment.",
     "ieStatus": {
-      "text": "Preview",
+      "text": "Preview Release",
       "priority": "Medium",
       "ieUnprefixed": "15014"
     },
@@ -471,7 +471,7 @@
     "category": "deployment",
     "summary": "Apps that are preinstalled on Windows 10 desktop are registered to all users that log into the device.  An administrator could remove these preinstalled apps so no new users would register the app, but if a user had previously been logged in they would still have the app registered.  The Windows 10 Creators Update now offers additional commands allow an administrator to remove the preinstalled app from the devices and from any user profile that has registered the app allowing for a complete removal of the app from the device.",
     "ieStatus": {
-      "text": "Preview",
+      "text": "Preview Release",
       "priority": "Medium",
       "ieUnprefixed": "15014"
     },
