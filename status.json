@@ -245,21 +245,6 @@
     "uservoiceid": 10172523
   },
   {
-    "name": "Allow arbritrary background tasks",
-    "category": "background",
-    "summary": "Save for a few narrow use cases, apps are prevented from working in the background (the current backgroundtask has too many resource constraints.",
-    "ieStatus": {
-      "text": "Not currently planned",
-      "priority": "Medium"
-    },
-    "spec": "",
-    "msdn": "",
-    "wpd": "",
-    "demo": "",
-    "id": null,
-    "uservoiceid": 6091145
-  },
-  {
     "name": "Provide a PhotoCropTask",
     "category": "cameravideomic",
     "summary": "Please provide a PhotoCropTask that takes an Image(Byte[]) and provides the same crop tool",
@@ -305,5 +290,124 @@
     "demo": "",
     "id": null,
     "uservoiceid": 7272924
+  },
+  {
+    "name": "Allow running longer in the background based on AC availability",
+    "category": "background",
+    "summary": "Extended Execution session can run forever when connected to AC",
+    "ieStatus": {
+      "text": "Shipped",
+      "priority": "Medium",
+      "ieUnprefixed": "14393"
+    },
+    "msdn": "https://msdn.microsoft.com/en-us/library/windows/apps/windows.applicationmodel.extendedexecution.extendedexecutionsession.aspx",
+    "demo": "",
+    "id": 5782071,
+    "uservoiceid": null
+  },
+  {
+    "name": "Provide a one-process background task model",
+    "category": "background",
+    "summary": "Single-process background execution model for UWP",
+    "ieStatus": {
+      "text": "Shipped",
+      "priority": "Medium",
+      "ieUnprefixed": "14393"
+    },
+    "msdn": "https://blogs.windows.com/buildingapps/2016/06/07/background-activity-with-the-single-process-model/",
+    "demo": "",
+    "id": 5782050,
+    "uservoiceid": null
+  },
+  {
+    "name": "Background Execution Policy management ",
+    "category": "background",
+    "summary": "Allow enterprises to configure background execution policies, both globally and per-app (via GP and User Settings)",
+    "ieStatus": {
+      "text": "In Development",
+      "priority": "Medium"
+    },
+    "msdn": "",
+    "demo": "",
+    "id": 8239346,
+    "uservoiceid": null
+  },
+  {
+    "name": "Declare firewall exemptions in the manifest",
+    "category": "desktopbridge",
+    "summary": "Allow DesktopBridge apps to declare their firewall exemptions in the appx manifest",
+    "ieStatus": {
+      "text": "In Development",
+      "priority": "Medium"
+    },
+    "msdn": "",
+    "demo": "",
+    "id": 8271120,
+    "uservoiceid": null
+  },
+  {
+    "name": "Support for pre-installed Centennial apps",
+    "category": "desktopbridge",
+    "summary": "Support DesktopBridge apps to be preinstalled on Windows images",
+    "ieStatus": {
+      "text": "In Development",
+      "priority": "Medium"
+    },
+    "msdn": "",
+    "demo": "",
+    "id": 9075778,
+    "uservoiceid": null
+  },
+  {
+    "name": "Provide new WinRT events for \"App has begun/exited resize loop\"",
+    "category": "appviewmgmt",
+    "summary": "Allow games to be smart about handling Window resize",
+    "ieStatus": {
+      "text": "In Development",
+      "priority": "Medium"
+    },
+    "msdn": "",
+    "demo": "",
+    "id": 5883839,
+    "uservoiceid": null
+  },
+  {
+    "name": "Additional AppModel Developer Diagnostic APIs",
+    "category": "misc",
+    "summary": "APIs to diagnose memory, CPU, background execution, etc.",
+    "ieStatus": {
+      "text": "Under Consideration",
+      "priority": "Medium"
+    },
+    "msdn": "",
+    "demo": "",
+    "id": 9546400,
+    "uservoiceid": null
+  },
+  {
+    "name": "Support Secondary Tiles from Win32 Processes",
+    "category": "desktopbridge",
+    "summary": "Support secondary tiles for DesktopBridge applications",
+    "ieStatus": {
+      "text": "Under Consideration",
+      "priority": "Medium"
+    },
+    "msdn": "",
+    "demo": "",
+    "id": 7365579,
+    "uservoiceid": null
+  },
+  {
+    "name": "Developers can stop/modify window content from showing in task switcher and other mini views of the application",
+    "category": "appviewmgmt",
+    "summary": "Allow apps to override the content shown in mini-views/previews for their apps, for example in the task switcher UI",
+    "ieStatus": {
+      "text": "Under Consideration",
+      "priority": "Medium"
+    },
+    "msdn": "",
+    "demo": "",
+    "id": 878384,
+    "uservoiceid": null
   }
 ]
