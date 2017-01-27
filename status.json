@@ -567,7 +567,7 @@
   {
     "name": "Android SDK",
     "category": "projectrome",
-    "summary": "The Android SDK provides the same client functionality as our Anniversary Update Windows SDK:\n a) Device discovery, proximal and cloud\n a) Remote launch",
+    "summary": "The Android SDK provides the same client functionality as our Anniversary Update Windows SDK:\n a) Device discovery, proximal and cloud\n b) Remote launch",
     "ieStatus": {
       "text": "In Development",
       "priority": "Medium",
