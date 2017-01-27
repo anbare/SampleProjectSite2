@@ -549,5 +549,103 @@
     "demo": "",
     "id": 5876297,
     "uservoiceid": null
+  },
+  {
+    "name": "Remote Sessions",
+    "category": "projectrome",
+    "summary": "Remote Sessions enable developers to create experiences that multiple participants can concurrently engage in. These new APIs enable developers to create sessions, discover sessions (proximally), discover other users’ devices (proximally and with \"Share across devices\" setting set to \"everyone nearby\"), and exchange messages with other participants in the session.",
+    "ieStatus": {
+      "text": "In Development",
+      "priority": "Medium",
+      "ieUnprefixed": null
+    },
+    "msdn": "",
+    "demo": "",
+    "id": null,
+    "uservoiceid": null
+  },
+  {
+    "name": "Android SDK",
+    "category": "projectrome",
+    "summary": "The Android SDK provides the same client functionality as our Anniversary Update Windows SDK:\n a) Device discovery, proximal and cloud\n a) Remote launch",
+    "ieStatus": {
+      "text": "In Development",
+      "priority": "Medium",
+      "ieUnprefixed": null
+    },
+    "msdn": "",
+    "demo": "",
+    "id": null,
+    "uservoiceid": null
+  },
+  {
+    "name": "Support for AppUriHandlers in Edge",
+    "category": "projectrome",
+    "summary": "AppUriHandlers are now supported in the Edge browser",
+    "ieStatus": {
+      "text": "In Development",
+      "priority": "Medium",
+      "ieUnprefixed": null
+    },
+    "msdn": "",
+    "demo": "",
+    "id": null,
+    "uservoiceid": null
+  },
+  {
+    "name": "AAD support",
+    "category": "projectrome",
+    "summary": "The RemoteSystems APIs now support AAD as well. You can discover your devices based on your AAD identity.",
+    "ieStatus": {
+      "text": "In Development",
+      "priority": "Medium",
+      "ieUnprefixed": null
+    },
+    "msdn": "",
+    "demo": "",
+    "id": null,
+    "uservoiceid": null
+  },
+  {
+    "name": "Remote Systems API updates",
+    "category": "projectrome",
+    "summary": "The Remote Systems APIs have been updated to support:\n a) Spatially proximal discovery/filtering of devices\n b) Anonymous (cross-user) discovery of devices\n c) Ability to check state of “Share across devices” setting on local device\n d) Ability to check resources/capabilities on a given Remote System\n e) Settings update",
+    "ieStatus": {
+      "text": "In Development",
+      "priority": "Medium",
+      "ieUnprefixed": null
+    },
+    "msdn": "",
+    "demo": "",
+    "id": null,
+    "uservoiceid": null
+  },
+  {
+    "name": "RemoteSystems iOS SDK",
+    "category": "projectrome",
+    "summary": "The RemoteSystems iOS SDK enables you discover devices (proximally or through the cloud), remote launch, and set up app service connections to them.",
+    "ieStatus": {
+      "text": "Under Consideration",
+      "priority": "Medium",
+      "ieUnprefixed": null
+    },
+    "msdn": "",
+    "demo": "",
+    "id": null,
+    "uservoiceid": null
+  },
+  {
+    "name": "Exposing device capabilities",
+    "category": "projectrome",
+    "summary": "Through the RemoteSystem APIs you will be able to find details about a given device, such as capabilities, sensors, apps, app services, etc., and interact with those resources.",
+    "ieStatus": {
+      "text": "Under Consideration",
+      "priority": "Medium",
+      "ieUnprefixed": null
+    },
+    "msdn": "",
+    "demo": "",
+    "id": null,
+    "uservoiceid": null
   }
 ]
