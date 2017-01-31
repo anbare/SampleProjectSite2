@@ -647,5 +647,285 @@
     "demo": "",
     "id": null,
     "uservoiceid": null
+  },
+  {
+    "name": "Lifelike visual experiences through use of lighting and responsive materials",
+    "category": "ui",
+    "summary": "Use of lights, effect graphs, blurs, noise assets, blend modes etc. to create more lifelike UI with contextual materials",
+    "ieStatus": {
+      "text": "In Development",
+      "priority": "Medium",
+      "ieUnprefixed": null
+    },
+    "msdn": "",
+    "demo": "",
+    "id": null,
+    "uservoiceid": null
+  },
+  {
+    "name": "Custom page transitions using show/hide implicit animations",
+    "category": "ui",
+    "summary": "Developers are able to customize how items are shown or hidden during page transitions ",
+    "ieStatus": {
+      "text": "In Development",
+      "priority": "Medium",
+      "ieUnprefixed": null
+    },
+    "msdn": "",
+    "demo": "",
+    "id": null,
+    "uservoiceid": null
+  },
+  {
+    "name": "Ability to implicitly animate additional properties on CompositionObjects (drop shadows, clips, property sets) ",
+    "category": "ui",
+    "summary": "Responding to developer demand, now more Composition objects and properties can be implicitly animated than in the Anniversary Update.",
+    "ieStatus": {
+      "text": "In Development",
+      "priority": "Medium",
+      "ieUnprefixed": null
+    },
+    "msdn": "",
+    "demo": "",
+    "id": null,
+    "uservoiceid": null
+  },
+  {
+    "name": "Per monitor DPI awareness APIs",
+    "category": "ui",
+    "summary": "Enhanced DPI  APIs to allow Win32 apps more flexibility in controlling UI scaling and fidelity on a per-monitor basis. Developers no longer need to deal with an \"all or nothing\" option for DPI, and can progressively convert portions of their UI over to work better on newer premium PC displays.\n\nE.g. Automatic scaling of the title bar;  More controls in ComCtl are DPI aware",
+    "ieStatus": {
+      "text": "In Development",
+      "priority": "Medium",
+      "ieUnprefixed": null
+    },
+    "msdn": "",
+    "demo": "",
+    "id": null,
+    "uservoiceid": null
+  },
+  {
+    "name": "Enable UWPs with depth and volume to look more realistic in 3D/HMD environments",
+    "category": "ui",
+    "summary": "Lower barrier to entry for developers who build predominantly 2D UWP apps that have some notion of depth and layers, or volumetric content, to have those apps look more realistic with minimal additional code when used in a 3D environment like Windows Holographic (PC with HMD, HoloLens)",
+    "ieStatus": {
+      "text": "In Development",
+      "priority": "Under Consideration",
+      "ieUnprefixed": null
+    },
+    "msdn": "",
+    "demo": "",
+    "id": null,
+    "uservoiceid": null
+  },
+  {
+    "name": "Game quality rendering comes to UI with particle systems, post-proc effects, env maps, lighting and shadows in the Visual layer",
+    "category": "ui",
+    "summary": "We will push the frontiers of Windows UI and experiences with higher fidelity graphics, broader palette of effects, and more dynamic visualizations.",
+    "ieStatus": {
+      "text": "In Development",
+      "priority": "Under Consideration",
+      "ieUnprefixed": null
+    },
+    "msdn": "",
+    "demo": "",
+    "id": null,
+    "uservoiceid": null
+  },
+  {
+    "name": "Animated text, sharp and clear text @ scale in the Visual layer",
+    "category": "ui",
+    "summary": "Visuals with text primitive support that can be gracefully animated, scaled, have effects applied.",
+    "ieStatus": {
+      "text": "In Development",
+      "priority": "Under Consideration",
+      "ieUnprefixed": null
+    },
+    "msdn": "",
+    "demo": "",
+    "id": null,
+    "uservoiceid": null
+  },
+  {
+    "name": "Animated vector graphics support in the Visual layer",
+    "category": "ui",
+    "summary": "Support for vector graphic primitives in Visuals that can be gracefully animated, scaled, have effects applied.",
+    "ieStatus": {
+      "text": "In Development",
+      "priority": "Under Consideration",
+      "ieUnprefixed": null
+    },
+    "msdn": "",
+    "demo": "",
+    "id": null,
+    "uservoiceid": null
+  },
+  {
+    "name": "Improve the developer experience in authoring Expression Animations",
+    "category": "ui",
+    "summary": "Better Expression Authoring experience with strongly typed classes and IntelliSense support, in contrast to the current \"string-ly typed\" option.",
+    "ieStatus": {
+      "text": "In Development",
+      "priority": "Under Consideration",
+      "ieUnprefixed": null
+    },
+    "msdn": "",
+    "demo": "",
+    "id": null,
+    "uservoiceid": null
+  },
+  {
+    "name": "Developer/Designers can directly animate the velocity/acceleration of properties",
+    "category": "ui",
+    "summary": "Animating the velocity and acceleration of properties opens up new scenarios around natural motion and interaction with UI. Developers fill find this an easier solution to translate natural feeling motion design into code, without resorting to hacks or workarounds.",
+    "ieStatus": {
+      "text": "In Development",
+      "priority": "Under Consideration",
+      "ieUnprefixed": null
+    },
+    "msdn": "",
+    "demo": "",
+    "id": null,
+    "uservoiceid": null
+  },
+  {
+    "name": "Users get familiar intuitive interactions with content using canned physics",
+    "category": "ui",
+    "summary": "New physics constructs springs, decays, anchors, hinges that make lists and common panning/zooming/drag-drop interactions feel lifelike",
+    "ieStatus": {
+      "text": "In Development",
+      "priority": "Under Consideration",
+      "ieUnprefixed": null
+    },
+    "msdn": "",
+    "demo": "",
+    "id": null,
+    "uservoiceid": null
+  },
+  {
+    "name": "Ability to animate Visuals along a non-linear path",
+    "category": "ui",
+    "summary": "Developers are able to create dynamic paths to allow content to transition from one location to another naturally on any form factor.",
+    "ieStatus": {
+      "text": "In Development",
+      "priority": "Under Consideration",
+      "ieUnprefixed": null
+    },
+    "msdn": "",
+    "demo": "",
+    "id": null,
+    "uservoiceid": null
+  },
+  {
+    "name": "Animation system to drive non-CompositionObjects like Win2D objects",
+    "category": "ui",
+    "summary": "Developers get one Animation system to animate everything in your UI",
+    "ieStatus": {
+      "text": "In Development",
+      "priority": "Under Consideration",
+      "ieUnprefixed": null
+    },
+    "msdn": "",
+    "demo": "",
+    "id": null,
+    "uservoiceid": null
+  },
+  {
+    "name": "Developers have a complete, documented API set to enable premium Win32 apps to support multi-monitor scenarios correctly",
+    "category": "ui",
+    "summary": "Improving Win32 API reference docs specifically where APIs (e.g. in User32) have DPI specific behaviors.",
+    "ieStatus": {
+      "text": "In Development",
+      "priority": "Under Consideration",
+      "ieUnprefixed": null
+    },
+    "msdn": "",
+    "demo": "",
+    "id": null,
+    "uservoiceid": null
+  },
+  {
+    "name": "UWP apps can build screen capture experiences",
+    "category": "ui",
+    "summary": "Screen capture APIs to allow bitmap snapshots or streams of frames to be captured from the desktop or on a per-app basis.",
+    "ieStatus": {
+      "text": "In Development",
+      "priority": "Under Consideration",
+      "ieUnprefixed": null
+    },
+    "msdn": "",
+    "demo": "",
+    "id": null,
+    "uservoiceid": null
+  },
+  {
+    "name": "Developers can use Windows.UI.Composition APIs in Win32 apps on Windows 10",
+    "category": "ui",
+    "summary": "Access to the Visual layer and Dispatcher APIs from a Win32, WPF, WinForms etc. app on Windows 10.",
+    "ieStatus": {
+      "text": "In Development",
+      "priority": "Under Consideration",
+      "ieUnprefixed": null
+    },
+    "msdn": "",
+    "demo": "",
+    "id": null,
+    "uservoiceid": null
+  },
+  {
+    "name": "Support for clocks to control Animations",
+    "category": "ui",
+    "summary": "Developers are able to control and manage the progression of their animations – making choreographed UI and “playback control” experiences possible to create: Clocks, Triggers, State machines",
+    "ieStatus": {
+      "text": "In Development",
+      "priority": "Under Consideration",
+      "ieUnprefixed": null
+    },
+    "msdn": "",
+    "demo": "",
+    "id": null,
+    "uservoiceid": null
+  },
+  {
+    "name": "DispatcherQueue allows developers to easily create a secondary thread and schedule work on it",
+    "category": "ui",
+    "summary": "Ability to create a worker thread from the Dispatcher Queue. Ability to execute one task at a time, in the order in which they were added. Or schedule multiple concurrent tasks.\n\nDevelopers can also attach system level sources like File Descriptors, Sockets, etc. to DispatcherQueues and build custom handling for them.",
+    "ieStatus": {
+      "text": "In Development",
+      "priority": "Under Consideration",
+      "ieUnprefixed": null
+    },
+    "msdn": "",
+    "demo": "",
+    "id": null,
+    "uservoiceid": null
+  },
+  {
+    "name": "HDR/Wide Color Gamut support with Composition APIs",
+    "category": "ui",
+    "summary": "Composing HDR/Wide Color Gamut assets like images, textures, video with Composition APIs",
+    "ieStatus": {
+      "text": "In Development",
+      "priority": "Under Consideration",
+      "ieUnprefixed": null
+    },
+    "msdn": "",
+    "demo": "",
+    "id": null,
+    "uservoiceid": null
+  },
+  {
+    "name": "",
+    "category": "ui",
+    "summary": "",
+    "ieStatus": {
+      "text": "In Development",
+      "priority": "Under Consideration",
+      "ieUnprefixed": null
+    },
+    "msdn": "",
+    "demo": "",
+    "id": null,
+    "uservoiceid": null
   }
 ]
