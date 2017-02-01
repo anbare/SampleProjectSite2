@@ -913,5 +913,33 @@
     "demo": "",
     "id": null,
     "uservoiceid": null
+  },
+  {
+    "name": "Improve the Windows Console color scheme",
+    "category": "console",
+    "summary": "Update the console color scheme for better contrast, make it easier to read.",
+    "ieStatus": {
+      "text": "Under Consideration",
+      "priority": "Medium",
+      "ieUnprefixed": null
+    },
+    "msdn": "",
+    "demo": "",
+    "id": 7905118,
+    "uservoiceid": null
+  },
+  {
+    "name": "Enable publishing Console apps to the Store",
+    "category": "console",
+    "summary": "Developers can publish Console applications to the Windows Store",
+    "ieStatus": {
+      "text": "Under Consideration",
+      "priority": "Medium",
+      "ieUnprefixed": null
+    },
+    "msdn": "",
+    "demo": "",
+    "id": 9206421,
+    "uservoiceid": null
   }
 ]
