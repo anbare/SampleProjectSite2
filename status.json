@@ -170,15 +170,16 @@
     "uservoiceid": 14801892
   },
   {
-    "name": "API to check if primary tile is pinned",
+    "name": "API to pin primary tile and check if pinned",
     "category": "tile",
-    "summary": "Allow apps to check whether their primary tile is pinned to Start",
+    "summary": "Allow apps to check whether their primary tile is pinned to Start, and request to pin their primary live tile.",
     "ieStatus": {
-      "text": "In Development",
-      "priority": "Medium"
+      "text": "Preview Release",
+      "priority": "Medium",
+      "ieUnprefixed": "15025"
     },
     "spec": "",
-    "msdn": "",
+    "msdn": "https://blogs.msdn.microsoft.com/tiles_and_toasts/2017/02/01/primary-live-tile-api-windows-10/",
     "wpd": "",
     "demo": "",
     "id": null,
