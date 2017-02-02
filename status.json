@@ -942,5 +942,47 @@
     "demo": "",
     "id": 9206421,
     "uservoiceid": null
+  },
+  {
+    "name": "DAC: Add support for Icon Extraction",
+    "category": "desktopbridge",
+    "summary": "Extract the icon resources from an app and use them to initialize the converted package’s visual assetsExtract the icon resources from an app and use them to initialize the converted package’s visual assets",
+    "ieStatus": {
+      "text": "Shipped",
+      "priority": "Medium",
+      "ieUnprefixed": 14393
+    },
+    "msdn": "http://aka.ms/converterdocs",
+    "demo": "",
+    "id": null,
+    "uservoiceid": null
+  },
+  {
+    "name": "DAC: Add support for converting Apps without an installer",
+    "category": "desktopbridge",
+    "summary": "DAC should produce a manfest file for simple apps that do not have an installer (ie: xcopy)",
+    "ieStatus": {
+      "text": "In Development",
+      "priority": "Medium",
+      "ieUnprefixed": null
+    },
+    "msdn": "",
+    "demo": "",
+    "id": null,
+    "uservoiceid": null
+  },
+  {
+    "name": "DAC: Support detecting COM and extract registrations to the AppXManifest",
+    "category": "desktopbridge",
+    "summary": "Detect Out of proc COM registrations and add appropriate Packaged COM manifest entries.",
+    "ieStatus": {
+      "text": "In Development",
+      "priority": "Medium",
+      "ieUnprefixed": null
+    },
+    "msdn": "",
+    "demo": "",
+    "id": null,
+    "uservoiceid": null
   }
 ]
