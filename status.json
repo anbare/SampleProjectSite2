@@ -984,5 +984,61 @@
     "demo": "",
     "id": null,
     "uservoiceid": null
+  },
+  {
+    "name": "Support calling 3rd party WinRT Components from Win32",
+    "category": "com",
+    "summary": "Allow 3rd party developers to create WinRT components that can be called from UWP apps and Win32 apps",
+    "status": {
+      "text": "Under Consideration",
+      "priority": "Medium",
+      "buildNumber": null
+    },
+    "msdn": "",
+    "demo": "",
+    "id": null,
+    "uservoiceid": null
+  },
+  {
+    "name": "Packaged COM Support for the Desktop Bridge",
+    "category": "com",
+    "summary": "Allow apps to register public Out-of-Proc COM servers",
+    "status": {
+      "text": "In Development",
+      "priority": "Medium",
+      "buildNumber": null
+    },
+    "msdn": "",
+    "demo": "",
+    "id": null,
+    "uservoiceid": null
+  },
+  {
+    "name": "WinRT registration support for Optional Packages",
+    "category": "com",
+    "summary": "Support for Optional Packages when registering WinRT classes",
+    "status": {
+      "text": "In Development",
+      "priority": "Medium",
+      "buildNumber": null
+    },
+    "msdn": "",
+    "demo": "",
+    "id": null,
+    "uservoiceid": null
+  },
+  {
+    "name": "Update inbox SQLite for Creators Update",
+    "category": "com",
+    "summary": "Update the inbox version of SQLite to the latest version",
+    "status": {
+      "text": "In Development",
+      "priority": "Medium",
+      "buildNumber": null
+    },
+    "msdn": "",
+    "demo": "",
+    "id": null,
+    "uservoiceid": null
   }
 ]
