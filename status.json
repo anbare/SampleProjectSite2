@@ -1040,5 +1040,201 @@
     "demo": "",
     "id": null,
     "uservoiceid": null
+  },
+  {
+    "name": "XAML Markup Extensions",
+    "category": "ui",
+    "summary": "Add markup extension capability similar to what existed in WPF, to the UWP XAML framework.",
+    "status": {
+      "text": "Under Consideration",
+      "priority": "Medium",
+      "buildNumber": null
+    },
+    "msdn": "",
+    "demo": "",
+    "id": null,
+    "uservoiceid": 7232264
+  },
+  {
+    "name": "Form Input Validation",
+    "category": "ui",
+    "summary": "Foundation support in the XAML Framework to enable forms input validation.",
+    "status": {
+      "text": "Under Consideration",
+      "priority": "Medium",
+      "buildNumber": null
+    },
+    "msdn": "",
+    "demo": "",
+    "id": null,
+    "uservoiceid": 13052589
+  },
+  {
+    "name": "Improved Repeater controls for UI Virtualization",
+    "category": "ui",
+    "summary": "Enabling more flexible layouts and extensible virtualization for repeated item scenarios using XAML.",
+    "status": {
+      "text": "Under Consideration",
+      "priority": "Medium",
+      "buildNumber": null
+    },
+    "msdn": "",
+    "demo": "",
+    "id": null,
+    "uservoiceid": null
+  },
+  {
+    "name": "UpdateSourceTrigger in x:Bind",
+    "category": "ui",
+    "summary": "Bring forward the UpdateSourceTrigger mechanism from classic binding to compiled binding (x:Bind).",
+    "status": {
+      "text": "Under Consideration",
+      "priority": "Medium",
+      "buildNumber": null
+    },
+    "msdn": "",
+    "demo": "",
+    "id": null,
+    "uservoiceid": null
+  },
+  {
+    "name": "Static SVG Support for things like Icons",
+    "category": "ui",
+    "summary": "Ability to specify a static (non-animating) SVG asset to be used as an icon/image.",
+    "status": {
+      "text": "In Development",
+      "priority": "Medium",
+      "buildNumber": null
+    },
+    "msdn": "",
+    "demo": "",
+    "id": null,
+    "uservoiceid": null
+  },
+  {
+    "name": "Strikethrough support for TextBlock",
+    "category": "ui",
+    "summary": "Ability for a TextBlock to show Strikethrough text.",
+    "status": {
+      "text": "In Development",
+      "priority": "Medium",
+      "buildNumber": null
+    },
+    "msdn": "",
+    "demo": "",
+    "id": null,
+    "uservoiceid": null
+  },
+  {
+    "name": "Support ToUpper / Character Casing on TextBox",
+    "category": "ui",
+    "summary": "Ability to specify character casing for text entered into a TextBox.",
+    "status": {
+      "text": "Under Consideration",
+      "priority": "Medium",
+      "buildNumber": null
+    },
+    "msdn": "",
+    "demo": "",
+    "id": null,
+    "uservoiceid": 7272924
+  },
+  {
+    "name": "Image-based Closed Captions",
+    "category": "ui",
+    "summary": "Improve MediaPlayerElement to support image-based closed captions.",
+    "status": {
+      "text": "Under Consideration",
+      "priority": "Medium",
+      "buildNumber": null
+    },
+    "msdn": "",
+    "demo": "",
+    "id": null,
+    "uservoiceid": null
+  },
+  {
+    "name": "Pull to Refresh Control",
+    "category": "ui",
+    "summary": "High quality implementation of this common interaction pattern.",
+    "status": {
+      "text": "In Development",
+      "priority": "Medium",
+      "buildNumber": null
+    },
+    "msdn": "",
+    "demo": "",
+    "id": null,
+    "uservoiceid": null
+  },
+  {
+    "name": "Swipe Control",
+    "category": "ui",
+    "summary": "High quality implementation of this common interaction pattern.",
+    "status": {
+      "text": "In Development",
+      "priority": "Medium",
+      "buildNumber": null
+    },
+    "msdn": "",
+    "demo": "",
+    "id": null,
+    "uservoiceid": null
+  },
+  {
+    "name": "ColorPicker Control",
+    "category": "ui",
+    "summary": "High quality implementation of this common interaction pattern.",
+    "status": {
+      "text": "In Development",
+      "priority": "Medium",
+      "buildNumber": null
+    },
+    "msdn": "",
+    "demo": "",
+    "id": null,
+    "uservoiceid": null
+  },
+  {
+    "name": "Ratings Control",
+    "category": "ui",
+    "summary": "High quality implementation of this common interaction pattern.",
+    "status": {
+      "text": "In Development",
+      "priority": "Medium",
+      "buildNumber": null
+    },
+    "msdn": "",
+    "demo": "",
+    "id": null,
+    "uservoiceid": null
+  },
+  {
+    "name": "Navigation View ",
+    "category": "ui",
+    "summary": "High quality implementation of this common interaction pattern (aka 'Hamburger').",
+    "status": {
+      "text": "In Development",
+      "priority": "Medium",
+      "buildNumber": null
+    },
+    "msdn": "",
+    "demo": "",
+    "id": null,
+    "uservoiceid": null
+  },
+  {
+    "name": "Tree View Control",
+    "category": "ui",
+    "summary": "High quality implementation of this common interaction pattern.",
+    "status": {
+      "text": "In Development",
+      "priority": "Medium",
+      "buildNumber": null
+    },
+    "msdn": "",
+    "demo": "",
+    "id": null,
+    "uservoiceid": null
   }
 ]
