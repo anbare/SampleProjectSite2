@@ -3,158 +3,118 @@
   {
     "name": "Chaseable Tiles",
     "category": "tile",
-    "link": "http://www.w3.org/TR/svg-aam-1.0/",
     "summary": "Allow apps to know what was on their Live Tile when the user clicked it.",
-    "standardStatus": "Working draft or equivalent",
     "status": {
       "text": "Shipped",
       "buildNumber": "14393"
     },
-    "spec": "",
     "msdn": "https://blogs.msdn.microsoft.com/tiles_and_toasts/2016/04/06/chaseable-tiles-know-what-was-clicked-on-your-live-tile-windows-10-uwp/",
-    "wpd": "",
     "demo": "",
     "id": null
   },
   {
     "name": "Adaptive Toast Notifications",
     "category": "toast",
-    "link": "http://www.w3.org/TR/svg-aam-1.0/",
     "summary": "Support the same visual richness that Tiles have on Toast",
-    "standardStatus": "Working draft or equivalent",
     "status": {
       "text": "Shipped",
       "buildNumber": "14393"
     },
-    "spec": "",
     "msdn": "https://blogs.msdn.microsoft.com/tiles_and_toasts/2016/06/10/whats-new-for-toast-notifications-and-action-center-in-windows-10-anniversary-update/",
-    "wpd": "",
     "demo": "",
     "id": null
   },
   {
     "name": "Context menu on Toast notification",
     "category": "toast",
-    "link": "http://www.w3.org/TR/svg-aam-1.0/",
     "summary": "Allow developer-specified context menu actions on the Toast notification",
-    "standardStatus": "Working draft or equivalent",
     "status": {
       "text": "Shipped",
       "buildNumber": "14393"
     },
-    "spec": "",
     "msdn": "https://blogs.msdn.microsoft.com/tiles_and_toasts/2016/06/10/whats-new-for-toast-notifications-and-action-center-in-windows-10-anniversary-update/",
-    "wpd": "",
     "demo": "",
     "id": null
   },
   {
     "name": "Notification Listener",
     "category": "toast",
-    "link": "http://www.w3.org/TR/svg-aam-1.0/",
     "summary": "Allow apps to access your notifications, so wearable apps can be created",
-    "standardStatus": "Working draft or equivalent",
     "status": {
       "text": "Shipped",
       "buildNumber": "14393"
     },
-    "spec": "",
     "msdn": "https://blogs.msdn.microsoft.com/tiles_and_toasts/2016/05/26/notification-listener-documentation-windows-10/",
-    "wpd": "",
     "demo": "",
     "id": null
   },
   {
     "name": "Support hint-crop on Tile background image",
     "category": "tile",
-    "link": "http://www.w3.org/TR/svg-aam-1.0/",
     "summary": "Support hint-crop circle on Adaptive Tile notification background images",
-    "standardStatus": "Working draft or equivalent",
     "status": {
       "text": "Shipped",
       "buildNumber": "10586"
     },
-    "spec": "",
     "msdn": "https://blogs.msdn.microsoft.com/tiles_and_toasts/2015/11/03/whats-new-for-adaptive-tile-templates-in-windows-10-version-1511/",
-    "wpd": "",
     "demo": "",
     "id": null
   },
   {
     "name": "Support hint-crop on Tile peek image",
     "category": "tile",
-    "link": "http://www.w3.org/TR/svg-aam-1.0/",
     "summary": "Support hint-crop circle on Adaptive Tile notification peek images",
-    "standardStatus": "Working draft or equivalent",
     "status": {
       "text": "Shipped",
       "buildNumber": "10586"
     },
-    "spec": "",
     "msdn": "https://blogs.msdn.microsoft.com/tiles_and_toasts/2015/11/03/whats-new-for-adaptive-tile-templates-in-windows-10-version-1511/",
-    "wpd": "",
     "demo": "",
     "id": null
   },
   {
     "name": "Support hint-crop on Tile peek image",
     "category": "tile",
-    "link": "http://www.w3.org/TR/svg-aam-1.0/",
     "summary": "Support hint-crop circle on Adaptive Tile notification peek images",
-    "standardStatus": "Working draft or equivalent",
     "status": {
       "text": "Shipped",
       "buildNumber": "10586"
     },
-    "spec": "",
     "msdn": "https://blogs.msdn.microsoft.com/tiles_and_toasts/2015/11/03/whats-new-for-adaptive-tile-templates-in-windows-10-version-1511/",
-    "wpd": "",
     "demo": "",
     "id": null
   },
   {
     "name": "Interactive Toast notifications",
     "category": "toast",
-    "link": "http://www.w3.org/TR/svg-aam-1.0/",
     "summary": "Allow quick reply and other interactive Toast notification scenarios",
-    "standardStatus": "Working draft or equivalent",
     "status": {
       "text": "Shipped",
       "buildNumber": "10240"
     },
-    "spec": "",
     "msdn": "https://blogs.msdn.microsoft.com/tiles_and_toasts/2015/07/02/adaptive-and-interactive-toast-notifications-for-windows-10/",
-    "wpd": "",
     "demo": "",
     "id": null
   },
   {
     "name": "Pin Primary Tile",
     "category": "tile",
-    "link": "http://www.w3.org/TR/svg-aam-1.0/",
     "summary": "Allow apps to programmatically pin their primary tile",
-    "standardStatus": "Working draft or equivalent",
     "status": {
       "text": "In Development"
     },
-    "spec": "",
     "msdn": "",
-    "wpd": "",
     "demo": "",
     "id": null
   },
   {
     "name": "Third pary alarms break through quiet hours",
     "category": "toast",
-    "link": "http://www.w3.org/TR/svg-aam-1.0/",
     "summary": "Allow third party alarm notifications to break through quiet hours, just like native Alarm app",
-    "standardStatus": "Working draft or equivalent",
     "status": {
       "text": "Under Consideration"
     },
-    "spec": "",
     "msdn": "",
-    "wpd": "",
     "demo": "",
     "id": null,
     "uservoiceid": 14801892
@@ -167,9 +127,7 @@
       "text": "Preview Release",
       "buildNumber": "15025"
     },
-    "spec": "",
     "msdn": "https://blogs.msdn.microsoft.com/tiles_and_toasts/2017/02/01/primary-live-tile-api-windows-10/",
-    "wpd": "",
     "demo": "",
     "id": null,
     "uservoiceid": 2809413
@@ -181,9 +139,7 @@
     "status": {
       "text": "Not currently planned"
     },
-    "spec": "",
     "msdn": "",
-    "wpd": "",
     "demo": "",
     "id": null,
     "uservoiceid": 2282240
@@ -195,9 +151,7 @@
     "status": {
       "text": "Under Consideration"
     },
-    "spec": "",
     "msdn": "",
-    "wpd": "",
     "demo": "",
     "id": null,
     "uservoiceid": 8629408
@@ -209,9 +163,7 @@
     "status": {
       "text": "Under Consideration"
     },
-    "spec": "",
     "msdn": "",
-    "wpd": "",
     "demo": "",
     "id": null,
     "uservoiceid": 6609379
