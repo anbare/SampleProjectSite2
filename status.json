@@ -8,7 +8,6 @@
     "standardStatus": "Working draft or equivalent",
     "status": {
       "text": "Shipped",
-      "priority": "Medium",
       "buildNumber": "14393"
     },
     "spec": "",
@@ -25,7 +24,6 @@
     "standardStatus": "Working draft or equivalent",
     "status": {
       "text": "Shipped",
-      "priority": "Medium",
       "buildNumber": "14393"
     },
     "spec": "",
@@ -42,7 +40,6 @@
     "standardStatus": "Working draft or equivalent",
     "status": {
       "text": "Shipped",
-      "priority": "Medium",
       "buildNumber": "14393"
     },
     "spec": "",
@@ -59,7 +56,6 @@
     "standardStatus": "Working draft or equivalent",
     "status": {
       "text": "Shipped",
-      "priority": "Medium",
       "buildNumber": "14393"
     },
     "spec": "",
@@ -76,7 +72,6 @@
     "standardStatus": "Working draft or equivalent",
     "status": {
       "text": "Shipped",
-      "priority": "Medium",
       "buildNumber": "10586"
     },
     "spec": "",
@@ -93,7 +88,6 @@
     "standardStatus": "Working draft or equivalent",
     "status": {
       "text": "Shipped",
-      "priority": "Medium",
       "buildNumber": "10586"
     },
     "spec": "",
@@ -110,7 +104,6 @@
     "standardStatus": "Working draft or equivalent",
     "status": {
       "text": "Shipped",
-      "priority": "Medium",
       "buildNumber": "10586"
     },
     "spec": "",
@@ -127,7 +120,6 @@
     "standardStatus": "Working draft or equivalent",
     "status": {
       "text": "Shipped",
-      "priority": "Medium",
       "buildNumber": "10240"
     },
     "spec": "",
@@ -143,8 +135,7 @@
     "summary": "Allow apps to programmatically pin their primary tile",
     "standardStatus": "Working draft or equivalent",
     "status": {
-      "text": "In Development",
-      "priority": "Medium"
+      "text": "In Development"
     },
     "spec": "",
     "msdn": "",
@@ -159,8 +150,7 @@
     "summary": "Allow third party alarm notifications to break through quiet hours, just like native Alarm app",
     "standardStatus": "Working draft or equivalent",
     "status": {
-      "text": "Under Consideration",
-      "priority": "Medium"
+      "text": "Under Consideration"
     },
     "spec": "",
     "msdn": "",
@@ -175,7 +165,6 @@
     "summary": "Allow apps to check whether their primary tile is pinned to Start, and request to pin their primary live tile.",
     "status": {
       "text": "Preview Release",
-      "priority": "Medium",
       "buildNumber": "15025"
     },
     "spec": "",
@@ -190,8 +179,7 @@
     "category": "tile",
     "summary": "Allow apps to use full XAML on their Live Tile, to create rich and beautiful experiences",
     "status": {
-      "text": "Not currently planned",
-      "priority": "Medium"
+      "text": "Not currently planned"
     },
     "spec": "",
     "msdn": "",
@@ -205,8 +193,7 @@
     "category": "toast",
     "summary": "Currently, Toast Tag/Group is too short to even hold a GUID",
     "status": {
-      "text": "Under Consideration",
-      "priority": "Medium"
+      "text": "Under Consideration"
     },
     "spec": "",
     "msdn": "",
@@ -220,8 +207,7 @@
     "category": "toast",
     "summary": "Currently, there's a bug where polygons won't render when they overlap themselves (see https://social.msdn.microsoft.com/Forums/windowsapps/en-US/04bf003a-f15d-446a-8f70-3fa96905c303/map-polygons-with-holes-in-windows-phone-81). So it's currently impossible to draw polygons with holes, which e.g. makes it impossible to draw complex buildings etc.",
     "status": {
-      "text": "Under Consideration",
-      "priority": "Medium"
+      "text": "Under Consideration"
     },
     "spec": "",
     "msdn": "",
@@ -236,7 +222,6 @@
     "summary": "Extended Execution session can run forever when connected to AC",
     "status": {
       "text": "Shipped",
-      "priority": "Medium",
       "buildNumber": "14393"
     },
     "msdn": "https://msdn.microsoft.com/en-us/library/windows/apps/windows.applicationmodel.extendedexecution.extendedexecutionsession.aspx",
@@ -250,7 +235,6 @@
     "summary": "Single-process background execution model for UWP",
     "status": {
       "text": "Shipped",
-      "priority": "Medium",
       "buildNumber": "14393"
     },
     "msdn": "https://blogs.windows.com/buildingapps/2016/06/07/background-activity-with-the-single-process-model/",
@@ -263,8 +247,7 @@
     "category": "background",
     "summary": "Allow enterprises to configure background execution policies, both globally and per-app (via GP and User Settings)",
     "status": {
-      "text": "In Development",
-      "priority": "Medium"
+      "text": "In Development"
     },
     "msdn": "",
     "demo": "",
@@ -276,8 +259,7 @@
     "category": "desktopbridge",
     "summary": "Allow DesktopBridge apps to declare their firewall exemptions in the appx manifest",
     "status": {
-      "text": "In Development",
-      "priority": "Medium"
+      "text": "In Development"
     },
     "msdn": "",
     "demo": "",
@@ -289,8 +271,7 @@
     "category": "desktopbridge",
     "summary": "Support DesktopBridge apps to be preinstalled on Windows images",
     "status": {
-      "text": "In Development",
-      "priority": "Medium"
+      "text": "In Development"
     },
     "msdn": "",
     "demo": "",
@@ -302,8 +283,7 @@
     "category": "appviewmgmt",
     "summary": "Allow games to be smart about handling Window resize",
     "status": {
-      "text": "In Development",
-      "priority": "Medium"
+      "text": "In Development"
     },
     "msdn": "",
     "demo": "",
@@ -315,8 +295,7 @@
     "category": "misc",
     "summary": "APIs to diagnose memory, CPU, background execution, etc.",
     "status": {
-      "text": "Under Consideration",
-      "priority": "Medium"
+      "text": "Under Consideration"
     },
     "msdn": "",
     "demo": "",
@@ -328,8 +307,7 @@
     "category": "desktopbridge",
     "summary": "Support secondary tiles for DesktopBridge applications",
     "status": {
-      "text": "Under Consideration",
-      "priority": "Medium"
+      "text": "Under Consideration"
     },
     "msdn": "",
     "demo": "",
@@ -341,8 +319,7 @@
     "category": "appviewmgmt",
     "summary": "Allow apps to override the content shown in mini-views/previews for their apps, for example in the task switcher UI",
     "status": {
-      "text": "Under Consideration",
-      "priority": "Medium"
+      "text": "Under Consideration"
     },
     "msdn": "",
     "demo": "",
@@ -355,7 +332,6 @@
     "summary": "Registering an app in development mode allows for quicker iteration in development.  In many cases a developer wants to test on multiple devices or collaborate with other developer at the same time.  This feature allows the app registration to a network share so multiple devices can share register to teh same folder without the need to copy the files to each device.",
     "status": {
       "text": "Preview Release",
-      "priority": "Medium",
       "buildNumber": "14965"
     },
     "msdn": "http://blogs.msdn.microsoft.com/appinstaller/2016/11/04/rapid-app-development-using-register-layout-from-network-share-new-in-build-14965/",
@@ -369,7 +345,6 @@
     "summary": "When a user gets an update of a UWP app the deployment stack performs a differential download based on changes block with in the app, minimizing the bandwidth and update time for the user.  In the Windows 10 Creators Update a new tool was introduced (ComparePackage) to allow the developer to understand what the delta impact across two packages will be to an end user.  ComparePackage will show the add, changes, and deletes of files to allowing the developer to further optimize as needed.",
     "status": {
       "text": "Preview Release",
-      "priority": "Medium",
       "buildNumber": "15014"
     },
     "msdn": "",
@@ -383,7 +358,6 @@
     "summary": "Many apps come preinstalled with Windows. These are typically apps which are core to the Windows experience or that most people expect the system to have by default. Starting with build 14942 if a user removes an app the Windows upgrade experience will not reinstall the app on the device.",
     "status": {
       "text": "Preview Release",
-      "priority": "Medium",
       "buildNumber": "14942"
     },
     "msdn": "https://blogs.msdn.microsoft.com/appinstaller/2016/10/25/upgrade-improvements-in-14942/",
@@ -397,7 +371,6 @@
     "summary": "When managing and deploying apps from a Company Hub UWP developers wants the ability to report status and progress of installations of UWP on the device.  In the creators update the package catalog class will allow a UWP with Package Management capabilities the ability to listen for state and installation progress of a UWP deployment.",
     "status": {
       "text": "Preview Release",
-      "priority": "Medium",
       "buildNumber": "15014"
     },
     "msdn": "https://msdn.microsoft.com/en-us/library/windows/apps/Windows.ApplicationModel.PackageCatalog.aspx",
@@ -411,7 +384,6 @@
     "summary": "Apps that are preinstalled on Windows 10 desktop are registered to all users that log into the device.  An administrator could remove these preinstalled apps so no new users would register the app, but if a user had previously been logged in they would still have the app registered.  The Windows 10 Creators Update now offers additional commands allow an administrator to remove the preinstalled app from the devices and from any user profile that has registered the app allowing for a complete removal of the app from the device.",
     "status": {
       "text": "Preview Release",
-      "priority": "Medium",
       "buildNumber": "15014"
     },
     "msdn": "",
@@ -425,7 +397,6 @@
     "summary": "Developers can enable their app to launch when a minimal payload is deployed to the user.  This allows for quicker app engagement for the user.  Within the app the developer can customize the experience of the app as the remaining portion of the app are deployed.  A developer can prioritize the downloads of files and see progress of the remaining installation to provide a fluid in app experience.",
     "status": {
       "text": "In Development",
-      "priority": "Medium",
       "buildNumber": null
     },
     "msdn": "",
@@ -439,7 +410,6 @@
     "summary": "If an app is over 10 GB in space it will update the files in place instead of staging the files side by side with the original version preventing out of disk space errors when updating.",
     "status": {
       "text": "In Development",
-      "priority": "Medium",
       "buildNumber": null
     },
     "msdn": "",
@@ -453,7 +423,6 @@
     "summary": "Shell integration to double click and install a UWP on Windows desktop!",
     "status": {
       "text": "Shipped",
-      "priority": "Medium",
       "buildNumber": 14393
     },
     "msdn": "https://blogs.msdn.microsoft.com/appinstaller/2016/05/27/app-installer/",
@@ -467,7 +436,6 @@
     "summary": "Developers can host the ability to offer independent UWP packages to offer extensibility to their UWP app.  The extensions can be provided from first or third party developers.   The host app is in control of what extensions can load and run to ensure the integrity and quality of the app experience.",
     "status": {
       "text": "Shipped",
-      "priority": "Medium",
       "buildNumber": 14393
     },
     "msdn": "https://channel9.msdn.com/Events/Build/2016/B808",
@@ -481,7 +449,6 @@
     "summary": "Developers have an in app experience to notify the user of required or optional app updates.  Based on the state of the update developers can enable or disable functionality (i.e. online experience) until the update has been installed.",
     "status": {
       "text": "Shipped",
-      "priority": "Medium",
       "buildNumber": 14393
     },
     "msdn": "https://blogs.msdn.microsoft.com/appinstaller/2016/11/11/developer-controlled-app-updates/",
@@ -495,7 +462,6 @@
     "summary": "Remote Sessions enable developers to create experiences that multiple participants can concurrently engage in. These new APIs enable developers to create sessions, discover sessions (proximally), discover other users’ devices (proximally and with \"Share across devices\" setting set to \"everyone nearby\"), and exchange messages with other participants in the session.",
     "status": {
       "text": "In Development",
-      "priority": "Medium",
       "buildNumber": null
     },
     "msdn": "",
@@ -509,7 +475,6 @@
     "summary": "The Android SDK provides the same client functionality as our Anniversary Update Remote Systems Windows SDK:\n a) Device discovery, proximal and cloud\n b) Remote launch",
     "status": {
       "text": "In Development",
-      "priority": "Medium",
       "buildNumber": null
     },
     "msdn": "",
@@ -523,7 +488,6 @@
     "summary": "AppUriHandlers are now supported in the Edge browser",
     "status": {
       "text": "In Development",
-      "priority": "Medium",
       "buildNumber": null
     },
     "msdn": "",
@@ -537,7 +501,6 @@
     "summary": "The RemoteSystems APIs now support AAD as well. You can discover your devices based on your AAD identity.",
     "status": {
       "text": "In Development",
-      "priority": "Medium",
       "buildNumber": null
     },
     "msdn": "",
@@ -551,7 +514,6 @@
     "summary": "The Remote Systems APIs have been updated to support:\n a) Spatially proximal discovery/filtering of devices\n b) Anonymous (cross-user) discovery of devices\n c) Ability to check state of “Share across devices” setting on local device\n d) Ability to check resources/capabilities on a given Remote System\n e) Settings update",
     "status": {
       "text": "In Development",
-      "priority": "Medium",
       "buildNumber": null
     },
     "msdn": "",
@@ -565,7 +527,6 @@
     "summary": "The RemoteSystems iOS SDK enables you discover devices (proximally or through the cloud), remote launch, and set up app service connections to them.",
     "status": {
       "text": "Under Consideration",
-      "priority": "Medium",
       "buildNumber": null
     },
     "msdn": "",
@@ -579,7 +540,6 @@
     "summary": "Through the RemoteSystem APIs you will be able to find details about a given device, such as capabilities, sensors, apps, app services, etc., and interact with those resources.",
     "status": {
       "text": "Under Consideration",
-      "priority": "Medium",
       "buildNumber": null
     },
     "msdn": "",
@@ -593,7 +553,6 @@
     "summary": "Use of lights, effect graphs, blurs, noise assets, blend modes etc. to create more lifelike UI with contextual materials",
     "status": {
       "text": "In Development",
-      "priority": "Medium",
       "buildNumber": null
     },
     "msdn": "",
@@ -607,7 +566,6 @@
     "summary": "Developers are able to customize how items are shown or hidden during page transitions ",
     "status": {
       "text": "In Development",
-      "priority": "Medium",
       "buildNumber": null
     },
     "msdn": "",
@@ -621,7 +579,6 @@
     "summary": "Responding to developer demand, now more Composition objects and properties can be implicitly animated than in the Anniversary Update.",
     "status": {
       "text": "In Development",
-      "priority": "Medium",
       "buildNumber": null
     },
     "msdn": "",
@@ -635,7 +592,6 @@
     "summary": "Enhanced DPI  APIs to allow Win32 apps more flexibility in controlling UI scaling and fidelity on a per-monitor basis. Developers no longer need to deal with an \"all or nothing\" option for DPI, and can progressively convert portions of their UI over to work better on newer premium PC displays.\n\nE.g. Automatic scaling of the title bar;  More controls in ComCtl are DPI aware",
     "status": {
       "text": "In Development",
-      "priority": "Medium",
       "buildNumber": null
     },
     "msdn": "",
@@ -649,7 +605,6 @@
     "summary": "Lower barrier to entry for developers who build predominantly 2D UWP apps that have some notion of depth and layers, or volumetric content, to have those apps look more realistic with minimal additional code when used in a 3D environment like Windows Holographic (PC with HMD, HoloLens)",
     "status": {
       "text": "Under Consideration",
-      "priority": "Medium",
       "buildNumber": null
     },
     "msdn": "",
@@ -663,7 +618,6 @@
     "summary": "We will push the frontiers of Windows UI and experiences with higher fidelity graphics, broader palette of effects, and more dynamic visualizations.",
     "status": {
       "text": "Under Consideration",
-      "priority": "Medium",
       "buildNumber": null
     },
     "msdn": "",
@@ -677,7 +631,6 @@
     "summary": "Visuals with text primitive support that can be gracefully animated, scaled, have effects applied.",
     "status": {
       "text": "Under Consideration",
-      "priority": "Medium",
       "buildNumber": null
     },
     "msdn": "",
@@ -691,7 +644,6 @@
     "summary": "Support for vector graphic primitives in Visuals that can be gracefully animated, scaled, have effects applied.",
     "status": {
       "text": "Under Consideration",
-      "priority": "Medium",
       "buildNumber": null
     },
     "msdn": "",
@@ -705,7 +657,6 @@
     "summary": "Better Expression Authoring experience with strongly typed classes and IntelliSense support, in contrast to the current \"string-ly typed\" option.",
     "status": {
       "text": "Under Consideration",
-      "priority": "Medium",
       "buildNumber": null
     },
     "msdn": "",
@@ -719,7 +670,6 @@
     "summary": "Animating the velocity and acceleration of properties opens up new scenarios around natural motion and interaction with UI. Developers fill find this an easier solution to translate natural feeling motion design into code, without resorting to hacks or workarounds.",
     "status": {
       "text": "Under Consideration",
-      "priority": "Medium",
       "buildNumber": null
     },
     "msdn": "",
@@ -733,7 +683,6 @@
     "summary": "New physics constructs springs, decays, anchors, hinges that make lists and common panning/zooming/drag-drop interactions feel lifelike",
     "status": {
       "text": "Under Consideration",
-      "priority": "Medium",
       "buildNumber": null
     },
     "msdn": "",
@@ -747,7 +696,6 @@
     "summary": "Developers are able to create dynamic paths to allow content to transition from one location to another naturally on any form factor.",
     "status": {
       "text": "Under Consideration",
-      "priority": "Medium",
       "buildNumber": null
     },
     "msdn": "",
@@ -761,7 +709,6 @@
     "summary": "Developers get one Animation system to animate everything in your UI",
     "status": {
       "text": "Under Consideration",
-      "priority": "Medium",
       "buildNumber": null
     },
     "msdn": "",
@@ -775,7 +722,6 @@
     "summary": "Improving Win32 API reference docs specifically where APIs (e.g. in User32) have DPI specific behaviors.",
     "status": {
       "text": "Under Consideration",
-      "priority": "Medium",
       "buildNumber": null
     },
     "msdn": "",
@@ -789,7 +735,6 @@
     "summary": "Screen capture APIs to allow bitmap snapshots or streams of frames to be captured from the desktop or on a per-app basis.",
     "status": {
       "text": "Under Consideration",
-      "priority": "Medium",
       "buildNumber": null
     },
     "msdn": "",
@@ -803,7 +748,6 @@
     "summary": "Access to the Visual layer and Dispatcher APIs from a Win32, WPF, WinForms etc. app on Windows 10.",
     "status": {
       "text": "Under Consideration",
-      "priority": "Medium",
       "buildNumber": null
     },
     "msdn": "",
@@ -817,7 +761,6 @@
     "summary": "Developers are able to control and manage the progression of their animations – making choreographed UI and “playback control” experiences possible to create: Clocks, Triggers, State machines",
     "status": {
       "text": "Under Consideration",
-      "priority": "Medium",
       "buildNumber": null
     },
     "msdn": "",
@@ -831,7 +774,6 @@
     "summary": "Ability to create a worker thread from the Dispatcher Queue. Ability to execute one task at a time, in the order in which they were added. Or schedule multiple concurrent tasks.\n\nDevelopers can also attach system level sources like File Descriptors, Sockets, etc. to DispatcherQueues and build custom handling for them.",
     "status": {
       "text": "Under Consideration",
-      "priority": "Medium",
       "buildNumber": null
     },
     "msdn": "",
@@ -845,7 +787,6 @@
     "summary": "Composing HDR/Wide Color Gamut assets like images, textures, video with Composition APIs",
     "status": {
       "text": "Under Consideration",
-      "priority": "Medium",
       "buildNumber": null
     },
     "msdn": "",
@@ -859,7 +800,6 @@
     "summary": "Update the console color scheme for better contrast, make it easier to read.",
     "status": {
       "text": "Under Consideration",
-      "priority": "Medium",
       "buildNumber": null
     },
     "msdn": "",
@@ -873,7 +813,6 @@
     "summary": "Developers can publish Console applications to the Windows Store",
     "status": {
       "text": "Under Consideration",
-      "priority": "Medium",
       "buildNumber": null
     },
     "msdn": "",
@@ -887,7 +826,6 @@
     "summary": "Extract the icon resources from an app and use them to initialize the converted package’s visual assetsExtract the icon resources from an app and use them to initialize the converted package’s visual assets",
     "status": {
       "text": "Shipped",
-      "priority": "Medium",
       "buildNumber": 14393
     },
     "msdn": "http://aka.ms/converterdocs",
@@ -901,7 +839,6 @@
     "summary": "DAC should produce a manfest file for simple apps that do not have an installer (ie: xcopy)",
     "status": {
       "text": "In Development",
-      "priority": "Medium",
       "buildNumber": null
     },
     "msdn": "",
@@ -915,7 +852,6 @@
     "summary": "Detect Out of proc COM registrations and add appropriate Packaged COM manifest entries.",
     "status": {
       "text": "In Development",
-      "priority": "Medium",
       "buildNumber": null
     },
     "msdn": "",
@@ -929,7 +865,6 @@
     "summary": "Allow 3rd party developers to create WinRT components that can be called from UWP apps and Win32 apps",
     "status": {
       "text": "Under Consideration",
-      "priority": "Medium",
       "buildNumber": null
     },
     "msdn": "",
@@ -943,7 +878,6 @@
     "summary": "Allow apps to register public Out-of-Proc COM servers",
     "status": {
       "text": "In Development",
-      "priority": "Medium",
       "buildNumber": null
     },
     "msdn": "",
@@ -957,7 +891,6 @@
     "summary": "Support for Optional Packages when registering WinRT classes",
     "status": {
       "text": "In Development",
-      "priority": "Medium",
       "buildNumber": null
     },
     "msdn": "",
@@ -971,7 +904,6 @@
     "summary": "Update the inbox version of SQLite to the latest version",
     "status": {
       "text": "In Development",
-      "priority": "Medium",
       "buildNumber": null
     },
     "msdn": "",
@@ -985,7 +917,6 @@
     "summary": "Add markup extension capability similar to what existed in WPF, to the UWP XAML framework.",
     "status": {
       "text": "Under Consideration",
-      "priority": "Medium",
       "buildNumber": null
     },
     "msdn": "",
@@ -999,7 +930,6 @@
     "summary": "Foundation support in the XAML Framework to enable forms input validation.",
     "status": {
       "text": "Under Consideration",
-      "priority": "Medium",
       "buildNumber": null
     },
     "msdn": "",
@@ -1013,7 +943,6 @@
     "summary": "Enabling more flexible layouts and extensible virtualization for repeated item scenarios using XAML.",
     "status": {
       "text": "Under Consideration",
-      "priority": "Medium",
       "buildNumber": null
     },
     "msdn": "",
@@ -1027,7 +956,6 @@
     "summary": "Bring forward the UpdateSourceTrigger mechanism from classic binding to compiled binding (x:Bind).",
     "status": {
       "text": "Under Consideration",
-      "priority": "Medium",
       "buildNumber": null
     },
     "msdn": "",
@@ -1041,7 +969,6 @@
     "summary": "Ability to specify a static (non-animating) SVG asset to be used as an icon/image.",
     "status": {
       "text": "In Development",
-      "priority": "Medium",
       "buildNumber": null
     },
     "msdn": "",
@@ -1055,7 +982,6 @@
     "summary": "Ability for a TextBlock to show Strikethrough text.",
     "status": {
       "text": "In Development",
-      "priority": "Medium",
       "buildNumber": null
     },
     "msdn": "",
@@ -1069,7 +995,6 @@
     "summary": "Ability to specify character casing for text entered into a TextBox.",
     "status": {
       "text": "Under Consideration",
-      "priority": "Medium",
       "buildNumber": null
     },
     "msdn": "",
@@ -1083,7 +1008,6 @@
     "summary": "Improve MediaPlayerElement to support image-based closed captions.",
     "status": {
       "text": "Under Consideration",
-      "priority": "Medium",
       "buildNumber": null
     },
     "msdn": "",
@@ -1097,7 +1021,6 @@
     "summary": "High quality implementation of this common interaction pattern.",
     "status": {
       "text": "In Development",
-      "priority": "Medium",
       "buildNumber": null
     },
     "msdn": "",
@@ -1111,7 +1034,6 @@
     "summary": "High quality implementation of this common interaction pattern.",
     "status": {
       "text": "In Development",
-      "priority": "Medium",
       "buildNumber": null
     },
     "msdn": "",
@@ -1125,7 +1047,6 @@
     "summary": "High quality implementation of this common interaction pattern.",
     "status": {
       "text": "In Development",
-      "priority": "Medium",
       "buildNumber": null
     },
     "msdn": "",
@@ -1139,7 +1060,6 @@
     "summary": "High quality implementation of this common interaction pattern.",
     "status": {
       "text": "In Development",
-      "priority": "Medium",
       "buildNumber": null
     },
     "msdn": "",
@@ -1153,7 +1073,6 @@
     "summary": "High quality implementation of this common interaction pattern (aka 'Hamburger').",
     "status": {
       "text": "In Development",
-      "priority": "Medium",
       "buildNumber": null
     },
     "msdn": "",
@@ -1167,7 +1086,6 @@
     "summary": "High quality implementation of this common interaction pattern.",
     "status": {
       "text": "In Development",
-      "priority": "Medium",
       "buildNumber": null
     },
     "msdn": "",
