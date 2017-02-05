@@ -231,68 +231,6 @@
     "uservoiceid": 6609379
   },
   {
-    "name": "Remove max zoom limitation from MapControl",
-    "category": "maps",
-    "summary": "Remove max limitation on Zoomlevel 1-20. It would be nice to be able stretch bing maps data a bit more (22-25) and for custom detailed TIleLayers it would be also great.",
-    "status": {
-      "text": "Not currently planned",
-      "priority": "Medium"
-    },
-    "spec": "",
-    "msdn": "",
-    "wpd": "",
-    "demo": "",
-    "id": null,
-    "uservoiceid": 10172523
-  },
-  {
-    "name": "Provide a PhotoCropTask",
-    "category": "cameravideomic",
-    "summary": "Please provide a PhotoCropTask that takes an Image(Byte[]) and provides the same crop tool",
-    "status": {
-      "text": "Shipped",
-      "priority": "Medium",
-      "buildNumber": "10586"
-    },
-    "spec": "",
-    "msdn": "",
-    "wpd": "",
-    "demo": "",
-    "id": null,
-    "uservoiceid": 4308936
-  },
-  {
-    "name": "Bring back SQL Server Compact in Windows 10 UWP",
-    "category": "filedata",
-    "summary": "Bring back SQL Server Compact in Windows 10 UWP",
-    "status": {
-      "text": "Shipped",
-      "priority": "Medium",
-      "buildNumber": "10586"
-    },
-    "spec": "",
-    "msdn": "",
-    "wpd": "",
-    "demo": "",
-    "id": null,
-    "uservoiceid": 9638328
-  },
-  {
-    "name": "ToUpper property on TextBox",
-    "category": "filedata",
-    "summary": "Please create this option native to TextBox control ",
-    "status": {
-      "text": "Not currently planned",
-      "priority": "Medium"
-    },
-    "spec": "",
-    "msdn": "",
-    "wpd": "",
-    "demo": "",
-    "id": null,
-    "uservoiceid": 7272924
-  },
-  {
     "name": "Allow running longer in the background based on AC availability",
     "category": "background",
     "summary": "Extended Execution session can run forever when connected to AC",
