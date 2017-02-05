@@ -436,9 +436,9 @@
     "uservoiceid": null
   },
   {
-    "name": "AAD support",
+    "name": "Remote Systems: AAD support",
     "category": "projectrome",
-    "summary": "The RemoteSystems APIs now support AAD as well. You can discover your devices based on your AAD identity.",
+    "summary": "The Remote Systems APIs now support AAD as well. You can discover your devices based on your AAD identity.",
     "status": {
       "text": "In Development",
       "buildNumber": null
@@ -462,9 +462,9 @@
     "uservoiceid": null
   },
   {
-    "name": "RemoteSystems iOS SDK",
+    "name": "Remote Systems iOS SDK",
     "category": "projectrome",
-    "summary": "The RemoteSystems iOS SDK enables you discover devices (proximally or through the cloud), remote launch, and set up app service connections to them.",
+    "summary": "The Remote Systems iOS SDK enables you discover devices (proximally or through the cloud), remote launch, and set up app service connections to them.",
     "status": {
       "text": "Under Consideration",
       "buildNumber": null
@@ -475,9 +475,9 @@
     "uservoiceid": null
   },
   {
-    "name": "Exposing device capabilities",
+    "name": "Remote Systems: Exposing device capabilities",
     "category": "projectrome",
-    "summary": "Through the RemoteSystem APIs you will be able to find details about a given device, such as capabilities, sensors, apps, app services, etc., and interact with those resources.",
+    "summary": "Through the Remote System APIs you will be able to find details about a given device, such as capabilities, sensors, apps, app services, etc., and interact with those resources.",
     "status": {
       "text": "Under Consideration",
       "buildNumber": null
