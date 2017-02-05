@@ -157,18 +157,6 @@
     "uservoiceid": 8629408
   },
   {
-    "name": "Support drawing polygons with holes on MapControl",
-    "category": "toast",
-    "summary": "Currently, there's a bug where polygons won't render when they overlap themselves (see https://social.msdn.microsoft.com/Forums/windowsapps/en-US/04bf003a-f15d-446a-8f70-3fa96905c303/map-polygons-with-holes-in-windows-phone-81). So it's currently impossible to draw polygons with holes, which e.g. makes it impossible to draw complex buildings etc.",
-    "status": {
-      "text": "Under Consideration"
-    },
-    "msdn": "",
-    "demo": "",
-    "id": null,
-    "uservoiceid": 6609379
-  },
-  {
     "name": "Allow running longer in the background based on AC availability",
     "category": "background",
     "summary": "Extended Execution session can run forever when connected to AC",
