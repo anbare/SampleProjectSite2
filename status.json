@@ -1032,5 +1032,44 @@
     "demo": "",
     "id": null,
     "uservoiceid": null
+  },
+  {
+    "name": "Ink Analysis UWP API",
+    "category": "interaction",
+    "summary": "Analyze ink document structure, classify ink types and recognize ink text and shapes in UWP apps.",
+    "status": {
+      "text": "Preview Release",
+      "buildNumber": 15002
+    },
+    "msdn": "",
+    "demo": "",
+    "id": 8193612,
+    "uservoiceid": null
+  },
+  {
+    "name": "Ink Analysis Writing/Drawing Classification Accuracy Improvements",
+    "category": "interaction",
+    "summary": "Improve the accuracy of ink writing/drawing classification.",
+    "status": {
+      "text": "Under Consideration",
+      "buildNumber": null
+    },
+    "msdn": "",
+    "demo": "",
+    "id": 5148376,
+    "uservoiceid": null
+  },
+  {
+    "name": "Ink Analysis Shape Recognition Accuracy Improvements",
+    "category": "interaction",
+    "summary": "Improve the accuracy of ink shape recognition.",
+    "status": {
+      "text": "Under Consideration",
+      "buildNumber": null
+    },
+    "msdn": "",
+    "demo": "",
+    "id": 5282773,
+    "uservoiceid": null
   }
 ]
