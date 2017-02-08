@@ -97,17 +97,6 @@
     "id": null
   },
   {
-    "name": "Pin Primary Tile",
-    "category": "tile",
-    "summary": "Allow apps to programmatically pin their primary tile",
-    "status": {
-      "text": "In Development"
-    },
-    "msdn": "",
-    "demo": "",
-    "id": null
-  },
-  {
     "name": "Third pary alarms break through quiet hours",
     "category": "toast",
     "summary": "Allow third party alarm notifications to break through quiet hours, just like native Alarm app",
@@ -149,7 +138,8 @@
     "category": "toast",
     "summary": "Currently, Toast Tag/Group is too short to even hold a GUID",
     "status": {
-      "text": "Under Consideration"
+      "text": "Preview Release",
+      "buildNumber": 15002
     },
     "msdn": "",
     "demo": "",
@@ -1070,6 +1060,45 @@
     "msdn": "",
     "demo": "",
     "id": 5282773,
+    "uservoiceid": null
+  },
+  {
+    "name": "Progress bar control for toast notifications",
+    "category": "toast",
+    "summary": "Allow displaying progress UI within a toast notification, like download progress.",
+    "status": {
+      "text": "Preview Release",
+      "buildNumber": 15007
+    },
+    "msdn": "https://blogs.msdn.microsoft.com/tiles_and_toasts/2017/02/01/progress-ui-and-data-binding-inside-toast-notifications-windows-10-creators-update/",
+    "demo": "",
+    "id": null,
+    "uservoiceid": null
+  },
+  {
+    "name": "Headers for toast notifications",
+    "category": "toast",
+    "summary": "Allow providing a header for toast notifications, which groups multiple toasts within that header.",
+    "status": {
+      "text": "Preview Release",
+      "buildNumber": 15002
+    },
+    "msdn": "https://blogs.msdn.microsoft.com/tiles_and_toasts/2017/01/09/grouping-toast-notifications-under-different-headers-in-action-center-windows-10-creators-update/",
+    "demo": "",
+    "id": null,
+    "uservoiceid": null
+  },
+  {
+    "name": "Custom timestamp on toast notifications",
+    "category": "toast",
+    "summary": "Allow specifying a custom timestamp to be displayed on the toast notification, which can be more precise than the notification received time (for example, after your phone reconnects to the internet, app developers can include the time of the actual message, so that it doesn't look like all your messages came in exactly when you turned your phone on).",
+    "status": {
+      "text": "Preview Release",
+      "buildNumber": 15002
+    },
+    "msdn": "https://blogs.msdn.microsoft.com/tiles_and_toasts/2017/01/09/custom-timestamp-on-toast-notifications-windows-10-creators-update/",
+    "demo": "",
+    "id": null,
     "uservoiceid": null
   }
 ]
