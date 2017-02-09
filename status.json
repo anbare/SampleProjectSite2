@@ -1100,5 +1100,18 @@
     "demo": "",
     "id": null,
     "uservoiceid": null
+  },
+  {
+    "name": "System.Data.SqlClient support on UWP",
+    "category": "filedata",
+    "summary": "Let UWP developers connect to their SQLServer backends via the System.Data.SqlClient methods already available in .NET Core and .NET Framework.",
+    "status": {
+      "text": "Under Consideration",
+      "buildNumber": null
+    },
+    "msdn": "",
+    "demo": "",
+    "id": null,
+    "uservoiceid": null
   }
 ]
