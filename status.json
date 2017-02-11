@@ -1113,5 +1113,18 @@
     "demo": "",
     "id": null,
     "uservoiceid": null
+  },
+  {
+    "name": "CompactOverlay mode – aka Picture-in-Picture",
+    "category": "appviewmgmt",
+    "summary": "Be able to show our app above other windows so it won't get blocked. This allows users to continue to keep an eye on our app's content even when they are working with something else. The canonical example of an app taking advantage of this feature is a media player or a video chat app, enabling PIP scenarios.",
+    "status": {
+      "text": "Preview Release",
+      "buildNumber": 15021
+    },
+    "msdn": "https://blogs.msdn.microsoft.com/universal-windows-app-model/2017/02/11/compactoverlay-mode-aka-picture-in-picture/",
+    "demo": "",
+    "id": null,
+    "uservoiceid": null
   }
 ]
