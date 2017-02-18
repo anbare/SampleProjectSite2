@@ -73,18 +73,6 @@
     "id": null
   },
   {
-    "name": "Support hint-crop on Tile peek image",
-    "category": "tile",
-    "summary": "Support hint-crop circle on Adaptive Tile notification peek images",
-    "status": {
-      "text": "Shipped",
-      "buildNumber": "10586"
-    },
-    "msdn": "https://blogs.msdn.microsoft.com/tiles_and_toasts/2015/11/03/whats-new-for-adaptive-tile-templates-in-windows-10-version-1511/",
-    "demo": "",
-    "id": null
-  },
-  {
     "name": "Interactive Toast notifications",
     "category": "toast",
     "summary": "Allow quick reply and other interactive Toast notification scenarios",
